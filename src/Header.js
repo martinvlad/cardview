@@ -7,13 +7,8 @@ import {
 } from "baseui/header-navigation";
 import { StyledLink } from "baseui/link";
 import { Button, SHAPE } from "baseui/button";
-import { LightTheme, DarkTheme, ThemeProvider } from "baseui";
-const THEME = {
-  light: "light",
-  dark: "dark"
-};
+
 export default function Header() {
-  const [theme, setTheme] = React.useState(THEME.light);
   return (
     <HeaderNavigation>
       <StyledNavigationList $align={ALIGN.right}>

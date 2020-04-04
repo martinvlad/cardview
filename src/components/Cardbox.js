@@ -1,8 +1,7 @@
-import React, { Component } from "react";
+import React from "react";
 import { Card, StyledBody, StyledAction, StyledThumbnail } from "baseui/card";
 import "./Cardbox.css";
 import Popup from "../Popup";
-const data = require("../data.json");
 
 export const Cardbox = ({ text, title, photo, extradesc, email }) => {
   return (

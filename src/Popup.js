@@ -2,12 +2,7 @@ import * as React from "react";
 import { Button } from "baseui/button";
 import "./Popup.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faCoffee,
-  faEnvelopeSquare,
-  faEnvelopeOpen,
-  faEnvelopeOpenText
-} from "@fortawesome/free-solid-svg-icons";
+import { faEnvelopeOpenText } from "@fortawesome/free-solid-svg-icons";
 import {
   Modal,
   ModalHeader,
@@ -27,6 +22,7 @@ export default function Popup({ text, title, photo, extradesc, email }) {
   return (
     <React.Fragment>
       <Button
+        className="background"
         onClick={() => {
           setIsOpen(true);
         }}
@@ -38,23 +34,20 @@ export default function Popup({ text, title, photo, extradesc, email }) {
         isOpen={isOpen}
         role={ROLE.dialog}
         size={SIZE.default}
+        animate
       >
         <ModalHeader>{title}</ModalHeader>
         <ModalBody>{text}</ModalBody>
         <ModalBody>{extradesc}</ModalBody>
 
         <ModalBody>
-          <img height="250px" src={photo}></img>
+          <img alt="img" height="250px" src={photo}></img>
         </ModalBody>
         <ModalBody></ModalBody>
         <ModalFooter>
           <ModalButton>
             <a href={`mailto:${email}`}>
-              <FontAwesomeIcon
-                icon={faEnvelopeOpenText}
-                size="lg"
-                color="white"
-              />
+              <FontAwesomeIcon icon={faEnvelopeOpenText} size="lg" />
               Shoot me an email
             </a>
           </ModalButton>
