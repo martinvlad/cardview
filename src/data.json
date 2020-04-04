@@ -1,0 +1,44 @@
+{
+  "0": {
+    "name": "Martin",
+    "desc": "I am currently on track to be a software dev, and have a keen interest in React",
+    "img": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s150x150/79164947_3211104588934597_8446367055204057088_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=FrKrLa2vXLkAX9q-RWP&oh=50887257bd9f437a2ef62ae31571c5b5&oe=5EAB97E8",
+    "extradesc": "I've been in the bay area for about 5 years and I love the environment",
+    "email": "martingvlad@gmail.com"
+  },
+  "1": {
+    "name": "Taarush",
+    "desc": "I am a god in React and can literally do anything and just say 'It wasn't too hard xD'",
+    "img": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s150x150/75412638_750475885362771_2841361736659894272_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=OEg-FlQzhhsAX-6GnSC&oh=2b134b804603b7ce62e5a458153f9c5d&oe=5EAC7D37",
+    "extradesc": "I've been in the bay area for about 5 years and I love the environment",
+    "email": "taarushv@gmail.com"
+  },
+  "2": {
+    "name": "Advaith",
+    "desc": "I am a gambling addict that donates hundreds of dollars to Martin because I love him",
+    "img": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s150x150/88224684_194413965179062_1953033375950307328_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=d7-RcUjXDKYAX_wtY1F&oh=0e0bedde1c9d2a4d2d74d01e7382c2fd&oe=5EADA7B0",
+    "extradesc": "I've been in the bay area for about 5 years and I love the environment",
+    "email": "advaithseo@gmail.com"
+  },
+  "3": {
+    "name": "Avy",
+    "desc": "I clap anyone in 2k20 so don't ever try to fuck with me",
+    "img": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s150x150/76740071_2414558168796527_6836149984476266496_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=RP90WmzvbZ4AX_ZsF5U&oh=66717105ec41152806a75627aa9ec869&oe=5EAEFBA5",
+    "extradesc": "I've been in the bay area for about 5 years and I love the the biryani",
+    "email": "avyreddy@gmail.com"
+  },
+  "4": {
+    "name": "Vince",
+    "desc": "I have a girlfriend that understands me, and I love her to death",
+    "img": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s150x150/66049137_320615362177077_4924195020069666816_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=jiS5Qh7_fGQAX8z_1_B&oh=07303fc6ce071e9d2adcd77af87df283&oe=5EAC1F84",
+    "extradesc": "I've been in the bay area for about 5 years and I love the environment",
+    "email": "vince@gmail.com"
+  },
+  "5": {
+    "name": "Jeev",
+    "desc": "I like to go to sideshows because I think I'm cool af.",
+    "img": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s150x150/82862582_878054332653819_7992510314778198016_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=OUqXfoZRjEQAX9gHfXa&oh=9983947b4fcc4d9c921bb443ca2db9c9&oe=5EAEF121",
+    "extradesc": "I've been in the bay area for about 5 years and I love the environment",
+    "email": "jeev@gmail.com"
+  }
+}
